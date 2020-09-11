@@ -1,0 +1,111 @@
+# Kodi Media Center language file
+# Addon Name: PyFoehn
+# Addon id: service.pyfoehn
+# Addon Provider: Dorkniel
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#This is a comment
+
+msgctxt "#32000"
+msgid "Debug"
+msgstr ""
+
+msgctxt "#32001"
+msgid "pwmgpio"
+msgstr "GPIO-Port of the PWM-Signal for the fan"
+
+msgctxt "#32002"
+msgid "freq"
+msgstr "PWM-frequency"
+
+msgctxt "#32003"
+msgid "interval"
+msgstr "Pause between temperature requests"
+
+msgctxt "#32004"
+msgid "fanstartlevel"
+msgstr "Temperature-level at which the fan is started"
+
+msgctxt "#32005"
+msgid "fancooldown"
+msgstr "Cooldown (Rounds e.g. 5 or time e.g. 10sec)"
+
+msgctxt "#32006"
+msgid "constant_speed"
+msgstr "Constant fan-spin-rate (1-100)"
+
+msgctxt "#32007"
+msgid "variable_speed_switch"
+msgstr "Use Variable fan-spin-rates"
+
+msgctxt "#32008"
+msgid "variable_speed_1"
+msgstr "Variable fan-spin-rate 1"
+
+msgctxt "#32009"
+msgid "variable_speed_2"
+msgstr "Variable fan-spin-rate 2"
+
+msgctxt "#32010"
+msgid "variable_speed_3"
+msgstr "Variable fan-spin-rate 3"
+
+msgctxt "#32011"
+msgid "variable_speed_4"
+msgstr "Variable fan-spin-rate 4"
+
+msgctxt "#32012"
+msgid "variable_speed_5"
+msgstr "Variable fan-spin-rate 5"
+
+msgctxt "#32013"
+msgid "temperature_threshold_1"
+msgstr "Temperature-threshold 1"
+
+msgctxt "#32014"
+msgid "temperature_threshold_2"
+msgstr "Temperature-threshold 2"
+
+msgctxt "#32015"
+msgid "temperature_threshold_3"
+msgstr "Temperature-threshold 3"
+
+msgctxt "#32016"
+msgid "temperature_threshold_4"
+msgstr "Temperature-threshold 4"
+
+msgctxt "#32017"
+msgid "temperature_threshold_5"
+msgstr "Temperature-threshold 5"
+
+msgctxt "#32018"
+msgid "rangevalues"
+msgstr "Range-Values"
+
+msgctxt "#32019"
+msgid "settings.misc"
+msgstr "Miscellaneous"
+
+msgctxt "#32020"
+msgid "settings.fanbase"
+msgstr "Fan base settings"
+
+msgctxt "#32021"
+msgid "settings.fanspeeds"
+msgstr "Fan speed settings"
+
+msgctxt "#32022"
+msgid "settings.temperatures"
+msgstr "Temperature settings"

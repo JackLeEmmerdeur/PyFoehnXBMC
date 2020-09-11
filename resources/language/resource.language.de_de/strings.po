@@ -1,0 +1,111 @@
+# Kodi Media Center language file
+# Addon Name: PyFoehn
+# Addon id: service.pyfoehn
+# Addon Provider: Dorkniel
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#This is a comment
+
+msgctxt "#32000"
+msgid "Debug"
+msgstr ""
+
+msgctxt "#32001"
+msgid "pwmgpio"
+msgstr "GPIO-Port des PWM-Signals für den Lüfter"
+
+msgctxt "#32002"
+msgid "freq"
+msgstr "PWM Frequenz"
+
+msgctxt "#32003"
+msgid "interval"
+msgstr "Pause zwischen Temperatur-Abfragen"
+
+msgctxt "#32004"
+msgid "fanstartlevel"
+msgstr "Temperatur-Stufe ab der die Lüftung gestartet wird"
+
+msgctxt "#32005"
+msgid "fancooldown"
+msgstr "Nachkühlung (Runden z.B. 5, oder Zeit z.B. 1sec)"
+
+msgctxt "#32006"
+msgid "constant_speed"
+msgstr "Konstante Drehzahl (1-100)"
+
+msgctxt "#32007"
+msgid "variable_speed_switch"
+msgstr "Benutze Variable Drehzahlen"
+
+msgctxt "#32008"
+msgid "variable_speed_1"
+msgstr "Variable Drehzahl Stufe 1"
+
+msgctxt "#32009"
+msgid "variable_speed_2"
+msgstr "Variable Drehzahl Stufe 2"
+
+msgctxt "#32010"
+msgid "variable_speed_3"
+msgstr "Variable Drehzahl Stufe 3"
+
+msgctxt "#32011"
+msgid "variable_speed_4"
+msgstr "Variable Drehzahl Stufe 4"
+
+msgctxt "#32012"
+msgid "variable_speed_5"
+msgstr "Variable Drehzahl Stufe 5"
+
+msgctxt "#32013"
+msgid "temperature_threshold_1"
+msgstr "Temperatur Grenze 1"
+
+msgctxt "#32014"
+msgid "temperature_threshold_2"
+msgstr "Temperatur Grenze 2"
+
+msgctxt "#32015"
+msgid "temperature_threshold_3"
+msgstr "Temperatur Grenze 3"
+
+msgctxt "#32016"
+msgid "temperature_threshold_4"
+msgstr "Temperatur Grenze 4"
+
+msgctxt "#32017"
+msgid "temperature_threshold_5"
+msgstr "Temperatur Grenze 5"
+
+msgctxt "#32018"
+msgid "rangevalues"
+msgstr "Werte-Bereiche"
+
+msgctxt "#32019"
+msgid "settings.misc"
+msgstr "Allgemein"
+
+msgctxt "#32020"
+msgid "settings.fanbase"
+msgstr "Lüfter Basis-Einstellungen"
+
+msgctxt "#32021"
+msgid "settings.fanspeeds"
+msgstr "Lüfter Geschwindigkeits-Einstellungen"
+
+msgctxt "#32022"
+msgid "settings.temperatures"
+msgstr "Temperatur Einstellungen"
